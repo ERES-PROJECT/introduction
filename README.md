@@ -27,7 +27,7 @@ For general inquiries or to learn more about the project, contact:
 📧 **all512@lehigh.edu**
 
 ### Research Collaborations  
-For academic or research collaboration opportunities, contact:  
+For academic or research collaboration opportunities and repository access, contact:  
 📧 **all512@lehigh.edu**
 
 ---
